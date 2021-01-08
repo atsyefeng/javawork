@@ -1,4 +1,4 @@
-package javawork16;
+package javawork12;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
